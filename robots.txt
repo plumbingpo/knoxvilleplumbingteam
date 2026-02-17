@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://knoxvilleplumbingteam.com/sitemap.xml
